@@ -7,7 +7,7 @@ Using  tokenization, lowercasing, removing digits and punctuation, removing stop
 2. Train , test, validation with BATCH_SIZE = 4
 3. Seq to seq Model - Encoder, decoder, optimizer, and loss function
 4. Grid search over hyperparameters
-5. Accuracy metric: Blue score and our custom score
+5. Accuracy metric: Bleu score and our custom score
 
 
 Dataset Used:
