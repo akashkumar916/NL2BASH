@@ -1,6 +1,6 @@
 # NL2CMD
 
-"A model that can generate CMD (Command Prompt) commands based on natural language input." <br/>
+"A model that can generate Bash commands based on natural language input." <br/>
 <b>main.ipynb</b> contains the code for the following:
 1. Preprocessing using: 
 Using  tokenization, lowercasing, removing digits and punctuation, removing stop words, and stemming to the input and target text
